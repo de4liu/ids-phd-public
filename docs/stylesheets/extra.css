@@ -1,0 +1,48 @@
+/*
+  Understated Carlson School / University of Minnesota color accents.
+  Colors sourced from the official Carlson brand site (brand.carlsonschool.umn.edu/look-like/colors):
+    Maroon #7A0019, Gold #FFCC33, Ivory #E6E0D2.
+  This site does not use the Carlson or University of Minnesota logos/wordmarks,
+  per the brand site's logo-usage guidance, which reserves those marks for
+  official University business (brand.carlsonschool.umn.edu/look-like/logos).
+  Gold is used only as a decorative accent (never as text) because gold-on-white
+  and gold-on-maroon combinations do not meet WCAG 2.1 contrast guidelines.
+*/
+
+:root > * {
+  --md-primary-fg-color: #7a0019;
+  --md-primary-fg-color--light: #9c1a34;
+  --md-primary-fg-color--dark: #4d0010;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #7a0019;
+  --md-accent-fg-color--transparent: #7a001914;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #4d0010;
+  --md-primary-fg-color--light: #7a0019;
+  --md-primary-fg-color--dark: #300009;
+  --md-accent-fg-color: #e8a1ad;
+}
+
+/* Understated gold accent rule under page titles, not used for text color */
+.md-typeset h1 {
+  border-bottom: 3px solid #ffcc33;
+  padding-bottom: 0.3em;
+}
+
+.md-typeset .admonition.unofficial,
+.md-typeset details.unofficial {
+  border-color: #7a0019;
+}
+
+.md-typeset .unofficial > .admonition-title,
+.md-typeset .unofficial > summary {
+  background-color: #7a001914;
+  border-color: #7a0019;
+}
+
+.md-typeset .unofficial > .admonition-title::before,
+.md-typeset .unofficial > summary::before {
+  background-color: #7a0019;
+}

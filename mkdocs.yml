@@ -1,52 +1,52 @@
-site_name: IDS PhD Program — Carlson School of Management
+site_name: Information and Decision Sciences PhD Program — Carlson School of Management
+site_description: Supplemental information and FAQs for prospective students considering the Information and Decision Sciences PhD program at the University of Minnesota's Carlson School of Management.
 site_url: https://de4liu.github.io/ids-phd-public/
 theme:
   name: material
+  icon:
+    logo: material/school
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
+    - navigation.top
     - toc.integrate
     - search.suggest
     - search.highlight
-    - content.tabs.link
-    - content.code.annotation
     - content.code.copy
   language: en
   palette:
-    - scheme: youtube
+    - scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: orange
-      accent: yellow
     - scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: orange
-      accent: yellow
+
+extra_css:
+  - stylesheets/extra.css
+
 nav:
     - Home: index.md
+    - Considering the Information and Decision Sciences PhD: considering-the-phd.md
+    - Official Resources: official-resources.md
 
 plugins:
   - search
 
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
   - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
   - attr_list
-
+  - md_in_html
+  - toc:
+      permalink: true
 
 copyright: |
-  &copy; 2026 <a href="https://github.com/de4liu"  target="_blank" rel="noopener">De Liu</a>
+  &copy; 2026 Information and Decision Sciences PhD Program, Carlson School of Management, University of Minnesota. This is an unofficial, supplemental resource maintained by the Information and Decision Sciences PhD Coordinator's office — not a Carlson School or University of Minnesota website. For authoritative information, always refer to <a href="https://carlsonschool.umn.edu/graduate/phd" target="_blank" rel="noopener">carlsonschool.umn.edu</a>.
