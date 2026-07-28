@@ -34,7 +34,7 @@ extra_css:
 
 nav:
     - Home: index.md
-    - Considering the Information and Decision Sciences PhD: considering-the-phd.md
+    - Considering an IDS PhD?: considering-the-phd.md
     - Official Resources: official-resources.md
 
 plugins:
@@ -49,4 +49,4 @@ markdown_extensions:
       permalink: true
 
 copyright: |
-  &copy; 2026 Information and Decision Sciences PhD Program, Carlson School of Management, University of Minnesota. This is an unofficial, supplemental resource maintained by the Information and Decision Sciences PhD Coordinator's office — not a Carlson School or University of Minnesota website. For authoritative information, always refer to <a href="https://carlsonschool.umn.edu/graduate/phd" target="_blank" rel="noopener">carlsonschool.umn.edu</a>.
+  &copy; 2026 Dr. De Liu, PhD Coordinator, Information and Decision Sciences, Carlson School of Management, University of Minnesota.

@@ -1,4 +1,4 @@
-# Considering the Information and Decision Sciences PhD?
+# Considering the IDS PhD?
 
 Prospective students often write to the department with a version of the same underlying question: *"Is this kind of PhD right for me?"* The official Carlson School pages answer *what the program requires*; this page tries to answer *what the program is* and *how to think about fit*, so that when you do reach out, we can have a more useful conversation.
 
@@ -20,7 +20,7 @@ A few questions can help you assess fit before you invest time in an application
 
 **Preparation.** Strong quantitative and methodological preparation matters a great deal, because a large part of the coursework and the qualifying milestones involve rigorous methods training. The program draws on multiple reference disciplines — including computer science, economics, psychology, and organizational behavior — so there is no single required undergraduate major. What matters more is demonstrated ability to do rigorous, technical, or empirical work, and a genuine interest in the kinds of questions Information and Decision Sciences faculty study (information technology, decision-making, organizations, and their intersection).
 
-**Full-time commitment.** The Information and Decision Sciences PhD is a full-time, in-residence program, not a part-time or remote course of study. Alongside coursework and research, students typically hold a combined teaching/research assistantship of up to an average of 20 hours per week. Students are expected to be present on campus, including over the summer for funded research. Plan on several years of sustained, full-time commitment to the program.
+**Full-time commitment.** The Information and Decision Sciences PhD is a full-time, in-residence program, not a part-time or remote course of study. Alongside coursework and research, students typically hold a combined teaching/research assistantship of up to an average of 20 hours per week. Students are expected to be present on campus, including over the summer for funded research. Plan on several years of sustained, full-time commitment to the program — matched by the program's commitment to you: admitted students are guaranteed **five years of full funding** as long as they remain in good academic standing (see [Official Resources](official-resources.md) for current details).
 
 ## Nontraditional academic and professional backgrounds
 
@@ -49,20 +49,11 @@ This kind of preparation is also exactly what a strong personal statement draws 
 
 ## Can the program pre-assess my admission likelihood?
 
-No. We are not able to assess your likelihood of admission from an informal email, a resume summary, or a short biography. Admission decisions are made holistically by the faculty admissions committee, based on the complete application — including academic records, standardized test scores, letters of recommendation, the personal statement, and overall research fit — evaluated against a competitive applicant pool each cycle. None of that can be reliably estimated from an introductory message, and we would rather not offer an impression that turns out to be misleading in either direction.
+No. We are not able to assess your likelihood of admission from an informal email, a resume summary, or a short biography. Admission decisions are made at the department level — overseen by the Information and Decision Sciences PhD Coordinator together with several department faculty, not by any single faculty member — based on the complete application: academic records, standardized test scores, letters of recommendation, the personal statement, and overall research fit, evaluated against a competitive applicant pool each cycle. None of that can be reliably estimated from an introductory message, and we would rather not offer an impression that turns out to be misleading in either direction.
 
 The most reliable way to gauge your own fit is to work through the [Program fit](#program-fit-research-orientation-career-goals-and-preparation) and [research fit](#how-to-assess-your-research-fit) sections above, and to review the official [Admission Requirements & Deadlines](https://carlsonschool.umn.edu/graduate/phd/admissions/requirements-deadlines) page for the current, authoritative list of what the committee considers.
 
-## Before you request an individual meeting
-
-Faculty and the program coordinator are glad to talk with prospective students — but individual conversations are most useful once you've done some groundwork, both because it respects everyone's time and because it usually leads to a more substantive conversation. Before requesting a meeting, we'd suggest that you:
-
-1. **Read the official pages** — the [Information and Decision Sciences program overview](https://carlsonschool.umn.edu/graduate/phd/concentrations/information-decision-sciences), the [Admission Requirements & Deadlines](https://carlsonschool.umn.edu/graduate/phd/admissions/requirements-deadlines) page, and the [PhD FAQ](https://carlsonschool.umn.edu/graduate/phd/faq) — along with this page.
-2. **Write down, briefly, your own answers** to: What kinds of research problems would you like to study? What do you hope to do professionally after completing the PhD?
-3. **Prepare a current CV or résumé.**
-4. **Send an introductory email** to the Information and Decision Sciences PhD Coordinator at [deliu@umn.edu](mailto:deliu@umn.edu) with your CV and a short paragraph covering the two questions above.
-
-If there appears to be a reasonable alignment between your interests and the department's research areas, the program may offer a brief conversation as a next step. This introductory exchange is a courtesy, not a required or formal part of the admissions process — every applicant is evaluated through the same complete-application process regardless of whether an earlier conversation took place.
+If, after that, you'd like a brief conversation about whether the program is a fit for you, email the Information and Decision Sciences PhD Coordinator at [deliu@umn.edu](mailto:deliu@umn.edu) with your CV and a short paragraph on your research interests and career goals — that's enough for us to have a useful conversation. This is a courtesy, not a required or formal part of the admissions process; every applicant is evaluated through the same complete-application process regardless of whether an earlier conversation took place. For factual questions instead — funding amounts, application logistics, deadlines — you don't need any of this; just ask directly (see [Official Resources](official-resources.md#contact) for the right contact).
 
 ## How this page relates to official Carlson resources
 
