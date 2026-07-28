@@ -25,6 +25,22 @@
   --md-accent-fg-color: #e8a1ad;
 }
 
+/*
+  Underline links in body text so they're distinguishable from regular text
+  by more than color alone (accessible regardless of color vision, and more
+  visible against the maroon accent than Material's default hover-only
+  underline). Excludes heading permalink icons, which shouldn't be underlined.
+*/
+.md-typeset a:not(.headerlink) {
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+  text-underline-offset: 0.15em;
+}
+
+.md-typeset a:not(.headerlink):hover {
+  text-decoration-thickness: 2px;
+}
+
 /* Understated gold accent rule under page titles, not used for text color */
 .md-typeset h1 {
   border-bottom: 3px solid #ffcc33;
