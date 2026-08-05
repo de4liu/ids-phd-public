@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://de4liu.github.io/ids-phd-public/</loc>
-         <lastmod>2026-07-28</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://de4liu.github.io/ids-phd-public/considering-the-phd/</loc>
-         <lastmod>2026-07-28</lastmod>
+         <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://de4liu.github.io/ids-phd-public/cursor-for-doctoral-work/</loc>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://de4liu.github.io/ids-phd-public/official-resources/</loc>
-         <lastmod>2026-07-28</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
 </urlset>
