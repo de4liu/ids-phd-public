@@ -2,9 +2,9 @@
 
 [Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/)
 
-This repository is a public, GitHub-based website providing supplemental information and FAQs for prospective students interested in the Information and Decision Sciences PhD program at the Carlson School of Management, University of Minnesota.
+This repository is a public, GitHub-based website providing supplemental information and FAQs for prospective and current students in the Information and Decision Sciences PhD program at the Carlson School of Management, University of Minnesota.
 
-This site is **not official** — see the disclaimer on the site itself. It exists to give prospective students context and orientation that complements, rather than duplicates, the official Carlson School admissions pages (see `docs/official-resources.md`).
+This site is **not official** — see the disclaimer on the site itself. It exists to give context and orientation that complements, rather than duplicates, official Carlson School pages (see `docs/official-resources.md` and `docs/resources-for-students.md`).
 
 ## Local setup
 
@@ -48,6 +48,8 @@ All page content lives in `docs/` as plain Markdown — no build tooling knowled
 - `docs/index.md` — Home page.
 - `docs/considering-the-phd.md` — the "Considering the Information and Decision Sciences PhD?" resource/FAQ.
 - `docs/official-resources.md` — curated links to official Carlson/UMN pages. Update this first whenever an official URL changes.
+- `docs/resources-for-students.md` — hub for current-student resources.
+- `docs/cursor-for-doctoral-work.md` — Cursor as a research/workflow companion for doctoral work.
 
 When editing:
 
@@ -62,6 +64,8 @@ When editing:
         index.md            # Home page.
         considering-the-phd.md
         official-resources.md
+        resources-for-students.md
+        cursor-for-doctoral-work.md
         stylesheets/extra.css   # Understated Carlson maroon/gold accent colors.
     requirements.in / requirements.txt   # Pinned Python dependencies (mkdocs-material).
 

@@ -1,6 +1,6 @@
 # Information and Decision Sciences (IDS) PhD Program
 
-Welcome. This site is a **supplemental resource** for prospective students exploring the PhD program in **Information and Decision Sciences** at the [Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/).
+Welcome. This site is a **supplemental resource** for prospective and current students in the PhD program in **Information and Decision Sciences** at the [Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/).
 
 The Information and Decision Sciences (IDS) PhD trains researchers who study how individuals, organizations, and technology intersect — drawing on computer science, economics, organizational behavior, and behavioral science. The University of Minnesota established one of the first doctoral programs in management information systems in the United States, and the Information and Decision Sciences department remains among the top-ranked programs worldwide.
 
@@ -12,6 +12,8 @@ The Information and Decision Sciences (IDS) PhD trains researchers who study how
 **New to the program?** Start with [**Considering the Information and Decision Sciences PhD?**](considering-the-phd.md) — it walks through what a research PhD is (and isn't), how to think about fit, what to prepare, and what to do before requesting a conversation with the program.
 
 **Need the official facts?** [**Official Resources**](official-resources.md) collects direct links to the Carlson School and University of Minnesota pages that govern admissions requirements, deadlines, and funding.
+
+**Already in the program?** [**Resources for current students**](resources-for-students.md) points to practical guides — including [Cursor for doctoral work](cursor-for-doctoral-work.md) — that complement (and do not replace) official handbook and program communications.
 
 ## About the Information and Decision Sciences department
 

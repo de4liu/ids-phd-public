@@ -4,6 +4,12 @@ All notable changes to this site are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.2.0] - 2026-09-22
+
+### Added
+
+- Resources for current students: hub page with a link to the Cursor-for-doctoral-work guide, plus navigation entries for both pages; home page now points current students there.
+
 ## [1.0.0] - 2026-07-28
 
 Initial public release.
